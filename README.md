@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fanoos
+# Hi there 👋, I'm Muhammed Fanoos
 
 ## 🚀 About Me
 
@@ -70,3 +70,11 @@ Created an interactive dashboard using Pivot Tables, Charts, and Slicers.
 > "Without data, you're just another person with an opinion."
 
 Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
+
+## 📈 GitHub Stats
+
+![Fanoos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
