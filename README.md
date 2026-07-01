@@ -73,8 +73,8 @@ Thanks for visiting my profile! ⭐ Feel free to explore my repositories and con
 
 ## 📈 GitHub Stats
 
-![Fanoos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Fanoos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FanoosViz&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FanoosViz&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=FanoosViz&theme=tokyonight)
