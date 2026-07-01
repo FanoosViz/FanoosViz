@@ -38,9 +38,6 @@ I'm currently learning and improving my skills in **Python**, **SQL**, **Excel**
 ### 📊 Sales Data Analysis
 Analyzed sales data to identify trends and improve business insights.
 
-### 📈 Netflix Data Analysis
-Performed exploratory data analysis using Python, Pandas, and Matplotlib.
-
 ### 🛒 SQL Business Case Study
 Solved real-world business problems using SQL queries.
 
@@ -48,16 +45,6 @@ Solved real-world business problems using SQL queries.
 Created an interactive dashboard using Pivot Tables, Charts, and Slicers.
 
 > More projects coming soon!
-
----
-
-## 📈 GitHub Stats
-
-![Fanoos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
@@ -73,8 +60,8 @@ Created an interactive dashboard using Pivot Tables, Charts, and Slicers.
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username
+- 📧 Email: your-fanu.mhd@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/muhammed-fanoos/)
 
 ---
 
