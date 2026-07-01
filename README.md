@@ -23,7 +23,7 @@ I'm currently learning and improving my skills in **Python**, **SQL**, **Excel**
 ---
 
 ## 🌱 Currently Learning
-
+- Advanced excel
 - Advanced SQL
 - Data Cleaning & Transformation
 - Power BI Dashboard Development
@@ -49,7 +49,7 @@ Created an interactive dashboard using Pivot Tables, Charts, and Slicers.
 ---
 
 ## 🎯 2026 Goals
-
+- Create interactive excel projects
 - Build 20+ Data Analytics projects
 - Master SQL and Python
 - Create interactive Power BI dashboards
